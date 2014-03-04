@@ -1,0 +1,1 @@
+﻿Mailchimp integration module for Kohana 3.3.1
